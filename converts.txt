@@ -1,0 +1,85 @@
+
+The list of conversions:
+[03/01/2022 16:58:40]
+==========================
+22.00 USD = 77.44 ILS
+33.00 ILS = 9.24 USD
+45.55 ILS = 12.75 USD
+
+====== End of list ======
+
+The list of conversions:
+[03/01/2022 16:59:51]
+==========================
+22.00 ILS = 6.16 USD
+====== End of list ======
+
+[03/01/2022 17:01:18]
+===== Start of list ====
+44.00 USD = 154.88 ILS
+====== End of list ======
+
+[03/01/2022 17:30:09]
+===== Start of list ====
+22.00 USD = 77.44 ILS
+33.00 ILS = 9.24 USD
+====== End of list ======
+
+[03/01/2022 17:37:24]
+===== Start of list ====
+345.00 USD = 1214.40 ILS
+4456567.00 USD = 15687115.84 ILS
+57.00 ILS = 15.96 USD
+====== End of list ======
+
+[04/01/2022 21:33:47]
+===== Start of list ====
+33.00 USD = 116.16 ILS
+4.56 ILS = 1.28 USD
+====== End of list ======
+
+[04/01/2022 22:10:02]
+===== Start of list ====
+222.00 ILS = 62.16 USD
+11.00 ILS = 2.60 EUR
+56.77 USD = 199.83 ILS
+====== End of list ======
+
+[04/01/2022 22:11:13]
+===== Start of list ====
+22.00 USD = 77.44 ILS
+====== End of list ======
+
+[04/01/2022 22:12:12]
+===== Start of list ====
+22.00 USD = 77.44 ILS
+====== End of list ======
+
+[04/01/2022 22:14:04]
+===== Start of list ====
+333.00 ILS = 93.24 USD
+222.00 ILS = 52.48 EUR
+====== End of list ======
+
+[04/01/2022 23:56:19]
+===== Start of list ====
+33.00 USD = 116.16 ILS
+====== End of list ======
+
+[05/01/2022 00:03:06]
+===== Start of list ====
+22.00 ILS = 5.20 EUR
+34.50 ILS = 8.16 EUR
+30009.00 ILS = 8402.52 USD
+====== End of list ======
+
+[05/01/2022 00:04:42]
+===== Start of list ====
+1.00 USD = 3.52 ILS
+====== End of list ======
+
+[05/01/2022 00:14:39]
+===== Start of list ====
+33.00 USD = 116.16 ILS
+33.00 ILS = 7.80 EUR
+====== End of list ======
