@@ -83,3 +83,8 @@ The list of conversions:
 33.00 USD = 116.16 ILS
 33.00 ILS = 7.80 EUR
 ====== End of list ======
+
+[06/01/2022 09:34:19]
+===== Start of list ====
+22.00 USD = 77.44 ILS
+====== End of list ======
