@@ -12,7 +12,7 @@ The constructor arguments:
  */
 
 import screens.EndScreen;
-import screens.ShowFile;
+import screens.FileDisplayer;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -72,7 +72,7 @@ public class EndLogic {
         Files.writeString(path,footer, StandardOpenOption.APPEND);
 
         //Draw the file contents using SWING
-        ShowFile t = new ShowFile();
+        FileDisplayer t = new FileDisplayer();
         t.drawText(fileName);
 
         //Open file in Notepad application

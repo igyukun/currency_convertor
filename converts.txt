@@ -88,3 +88,23 @@ The list of conversions:
 ===== Start of list ====
 22.00 USD = 77.44 ILS
 ====== End of list ======
+
+[09/01/2022 11:14:34]
+===== Start of list ====
+11.00 ILS = 3.08 USD
+====== End of list ======
+
+[09/01/2022 11:16:57]
+===== Start of list ====
+33.33 USD = 117.32 ILS
+====== End of list ======
+
+[09/01/2022 11:17:55]
+===== Start of list ====
+555.00 ILS = 155.40 USD
+====== End of list ======
+
+[09/01/2022 11:19:26]
+===== Start of list ====
+44.00 ILS = 12.32 USD
+====== End of list ======

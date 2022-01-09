@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import javax.swing.*;
 
-public class ShowFile {
+public class FileDisplayer {
 
     //Method receives the file name and draws its contents using a JFrame
     public void drawText(String fileName) {
@@ -20,6 +20,7 @@ public class ShowFile {
 
         //Create JFrame instance and define its behavior
         JTextArea area = new JTextArea();
+        area.setEditable(false);
         area.setLineWrap(true);
         area.setWrapStyleWord(true);
         area.setBorder(BorderFactory.createEmptyBorder(5,10,5,5));
@@ -31,7 +32,8 @@ public class ShowFile {
 
         //Add text area into the frame, using the JScrollPane object and make it visible
         frame.add(new JScrollPane(area));
-        frame.setLocationRelativeTo(null);
+        frame.setAlwaysOnTop(true);
+        frame.setLocation(10,10);
         frame.setVisible(true);
     }
 }
