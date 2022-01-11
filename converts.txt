@@ -108,3 +108,10 @@ The list of conversions:
 ===== Start of list ====
 44.00 ILS = 12.32 USD
 ====== End of list ======
+
+[11/01/2022 11:18:25]
+===== Start of list ====
+2.00 ILS = 0.56 USD
+3.00 USD = 10.56 ILS
+1.00 ILS = 0.24 EUR
+====== End of list ======
